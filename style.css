@@ -1,5 +1,6 @@
 body {
-  background-color: blue;
+  background-color: light-blue;
   max-width: 800px;
   margin: auto;
+  color: white;
 }
